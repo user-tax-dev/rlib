@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@u6x/jsext": "^0.0.27",
+    "@u7/node-loader": "^0.0.49",
+    "@u7/uridir": "^0.0.2",
+    "cargo-cp-artifact": "^0.1.7",
+    "coffee_plus": "^0.0.55",
+    "concurrently": "^7.6.0",
+    "@u7/write": "^0.0.9",
+    "utax": "^0.0.47",
+    "@u7/read": "^0.0.6"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@u6x/ru",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "rust for user.tax",
+  "exports": {
+    ".":"./lib/index.js",
+    "./*":"./lib/*"
+  },
+  "scripts": {
+    "build": "cargo-cp-artifact -nc lib/lib.node -- cargo build --release --message-format=json-render-diagnostics",
+    "install": "npm run build",
+    "test": "cargo test"
+  },
+  "license": "Apache‑2.0",
+  "dependencies": {
+    "@u6x/node_cls": "^0.0.1",
+    "cargo-cp-artifact": "^0.1.7"
+  },
+  "homepage": "https://github.com/user-tax-dev/ru"
+}
