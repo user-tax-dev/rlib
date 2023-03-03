@@ -9,7 +9,7 @@ specifiers:
   cargo-cp-artifact: ^0.1.7
   coffee_plus: ^0.0.55
   concurrently: ^7.6.0
-  utax: ^0.0.47
+  utax: ^0.0.49
 
 devDependencies:
   '@u6x/jsext': 0.0.27
@@ -20,7 +20,7 @@ devDependencies:
   cargo-cp-artifact: 0.1.7
   coffee_plus: 0.0.55
   concurrently: 7.6.0
-  utax: 0.0.47
+  utax: 0.0.49
 
 packages:
 
@@ -260,8 +260,8 @@ packages:
     engines: {node: '>= 10.0.0'}
     dev: true
 
-  /utax/0.0.47:
-    resolution: {integrity: sha512-+q51UDWKFsd7/YdSo/v9SmxAlHsGKxp9QF2Z8iRjiROQydLessl/Mc3GCeO3pvowoaqeAlMQeUfyxFSb0OX2gw==}
+  /utax/0.0.49:
+    resolution: {integrity: sha512-5UVQKL0jhSVCZUE/ZrddCLRT1dFLKYb/M0XmD6fO1RP/L094aH05ZXxgj88O/0vo6DjBNu0eUv//P886k06FlQ==}
     dev: true
 
   /wrap-ansi/7.0.0:
