@@ -6,7 +6,7 @@ specifiers:
   '@u7/read': ^0.0.6
   '@u7/uridir': ^0.0.2
   '@u7/write': ^0.0.9
-  cargo-cp-artifact: ^0.1.7
+  cargo-cp-artifact: ^0.1.8
   coffee_plus: ^0.0.55
   concurrently: ^7.6.0
   utax: ^0.0.50
@@ -17,7 +17,7 @@ devDependencies:
   '@u7/read': 0.0.6
   '@u7/uridir': 0.0.2
   '@u7/write': 0.0.9
-  cargo-cp-artifact: 0.1.7
+  cargo-cp-artifact: 0.1.8
   coffee_plus: 0.0.55
   concurrently: 7.6.0
   utax: 0.0.50
@@ -72,8 +72,8 @@ packages:
       color-convert: 2.0.1
     dev: true
 
-  /cargo-cp-artifact/0.1.7:
-    resolution: {integrity: sha512-pxEV9p1on8vu3BOKstVisF9TwMyGKCBRvzaVpQHuU2sLULCKrn3MJWx/4XlNzmG6xNCTPf78DJ7WCGgr2mOzjg==}
+  /cargo-cp-artifact/0.1.8:
+    resolution: {integrity: sha512-3j4DaoTrsCD1MRkTF2Soacii0Nx7UHCce0EwUf4fHnggwiE4fbmF2AbnfzayR36DF8KGadfh7M/Yfy625kgPlA==}
     hasBin: true
     dev: true
 
