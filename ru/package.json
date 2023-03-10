@@ -15,7 +15,7 @@
   "license": "Apache‑2.0",
   "dependencies": {
     "@u6x/node_cls": "^0.0.1",
-    "cargo-cp-artifact": "^0.1.7"
+    "cargo-cp-artifact": "^0.1.8"
   },
   "homepage": "https://github.com/user-tax-dev/ru"
 }
